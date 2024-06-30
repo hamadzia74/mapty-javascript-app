@@ -55,6 +55,12 @@ a:visited {
   margin-bottom: 4rem;
 }
 
+.main-text{
+  color: #00C56A;
+  text-align: center;
+  text-decoration: underline;
+}
+
 .workouts {
   list-style: none;
   height: 77vh;
